@@ -1,10 +1,4 @@
 # FlexQL
-
-git clone https://github.com/Mustafasaifee2K03/FlexQL.git
-
-cd FlexQL
-
-
 FlexQL is a lightweight SQL-like storage engine with a TCP server and a simple CLI client.
 
 ## Requirements (new Linux machine)
@@ -22,6 +16,8 @@ sudo apt-get install -y libjemalloc-dev
 
 ## Build
 ```bash
+git clone https://github.com/Mustafasaifee2K03/FlexQL.git
+cd FlexQL
 make
 ```
 This produces binaries in bin/:
