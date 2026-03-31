@@ -1,5 +1,7 @@
 # FlexQL
 
+git clone https://github.com/Mustafasaifee2K03/FlexQL
+
 FlexQL is a lightweight SQL-like storage engine with a TCP server and a simple CLI client.
 
 ## Requirements (new Linux machine)
